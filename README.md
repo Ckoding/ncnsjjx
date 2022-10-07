@@ -1,4 +1,4 @@
-<h1 align="center">CodeIN Community Website </h1>
+<h1 align="center">Innovative Developer Community Website </h1>
 <h4 align="center"> India's Top Growing Student Technical Community of 8,000+ Students, We Organizes Open Source Programs, Hackathons and 1:1 Mentorships. </h4>
 <h3 align="center"> An Open Source Website for CodeIN Community built using HTML, CSS, JavaScript and Bootstrap. </h3>
 
@@ -106,75 +106,4 @@ If you wish to contribute, we highly recommend following the guidelines mentione
 
 **1.**  Fork [this](https://github.com/SauravMukherjee44/CodeIN-Community-Website) repository.
 
-**2.**  Clone your forked copy of the project.
-
-```bash
-   git clone https://github.com/your_username/CodeIN-Community-Website.git
 ```
-
-**3.** Navigate to the project directory.
-```
-   cd CodeIN-Community-Website
-```
-
-**4.** Create a new branch:
-```
-   git checkout -b YourBranchName
-```
-
-**5.** Make changes in source code.
-
-**6.** Stage your changes and commit
-
-```
-   git add .
-   git commit -m "<your_commit_message>"
-```
-
-**7.** Push your local commits to the remote repo.
-
-```
-   git push origin YourBranchName
-```
-
-**8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-
-**Note:** If anyone contributes to this repository, the changes will not be reflected in your local repository. For that:
-
-**9.** Setup a reference(remote) to the original repository to get all the changes from the remote.
-```
-   git remote add upstream  https://github.com/SauravMukherjee44/CodeIN-Community-Website.git
-```
-
-**10.** Check the remotes for this repository.
-```
-   git remote -v
-```
-
-**11.** Fetching from the remote repository will bring in its branches and their respective commits.
-```
-   git fetch upstream
-```
-
-**12.** Make sure that you're on your master branch.
-```
-   git checkout main
-```
-
-**13.** Now that you have fetched the upstream repository, you can merge its changes into our local branch. This will bring that branch into sync with the upstream, without losing the local changes.
-```
-   git merge upstream/main
-```
-
-<h2 align="center"> Code of Conduct 📜</h2>
-	
-To maintain a safe and inclusive space for everyone, to learn and grow, contributors are advised to follow the [Code of Conduct](./CODE_OF_CONDUCT.md) and also go through [Guidelines for Contributing](./CONTRIBUTING.md) atleast once.
-	
-
-
-<hr>
-	
-© 2022 Saurav Mukherjee and contributors\
-This project is licensed under the [**MIT license**](https://github.com/SauravMukherjee44/Aec-Library-Website/blob/main/LICENSE).
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
